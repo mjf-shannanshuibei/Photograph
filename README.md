@@ -1,1 +1,1 @@
-# githubBlogPhotograph
+# Photograph
