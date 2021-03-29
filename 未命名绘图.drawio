@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T12:31:55.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.3" etag="6J3NYlQP75b-AaOjWurU" type="github"><diagram id="rML_pUydPpNDXL1r_5_a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-29T12:42:11.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8rYSbI5SaThGhXbHZIcQ" version="14.4.3" type="github">
+  <diagram id="rML_pUydPpNDXL1r_5_a" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oR89NmJhK0dCQFJe37bc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR89NmJhK0dCQFJe37bc-1" target="oR89NmJhK0dCQFJe37bc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="225" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR89NmJhK0dCQFJe37bc-1" target="oR89NmJhK0dCQFJe37bc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="304" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR89NmJhK0dCQFJe37bc-1" target="oR89NmJhK0dCQFJe37bc-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="389" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oR89NmJhK0dCQFJe37bc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="460" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR89NmJhK0dCQFJe37bc-1" target="oR89NmJhK0dCQFJe37bc-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="544" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR89NmJhK0dCQFJe37bc-1" target="oR89NmJhK0dCQFJe37bc-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="170" />
+              <mxPoint x="624" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-1" value="基于JavaEE的校园防疫系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="110" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-2" value="系&lt;br&gt;统&lt;br&gt;管&lt;br&gt;理&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-3" value="物&lt;br&gt;资&lt;br&gt;管&lt;br&gt;理&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="200" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-4" value="疫&lt;br&gt;情&lt;br&gt;防&lt;br&gt;控&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="201" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-5" value="其&lt;br&gt;他&lt;br&gt;管&lt;br&gt;理&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="200" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-6" value="教&lt;br&gt;务&lt;br&gt;管&lt;br&gt;理&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="201" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-8" value="日&lt;br&gt;志&lt;br&gt;管&lt;br&gt;理&lt;br&gt;模&lt;br&gt;块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="200" width="50" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-15" value="IDEA+Tomcat+Node.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="410" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oR89NmJhK0dCQFJe37bc-16" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="289" y="500" width="300" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
